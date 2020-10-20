@@ -1,0 +1,14 @@
+Aplicativos = Sweet-Dark
+cursor = Mcmojave-cursor
+icones = marwaita-Dark
+shell = sweet Dark
+
+install python3
+install pip3
+install xampp
+install vscode
+    install theme omni
+    install material icons
+    install python tab
+    install python exec
+install github
